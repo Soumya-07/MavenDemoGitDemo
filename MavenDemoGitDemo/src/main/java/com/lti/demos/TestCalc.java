@@ -10,6 +10,7 @@ public class TestCalc {
 		
 		int sum= c.addNos(1000, 2000);
 		System.out.println(sum);
+		System.out.println("New line added");
 
 	}
 
